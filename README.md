@@ -28,3 +28,21 @@ Ya al tener lista la base de datos, se puede correr el proyecto. Ahora para que 
 
 
 Hechos los anteriores pasos se puede ejecutar el programa con satisfacción.
+
+
+
+### `Vistas`
+
+[![Cr1.png](https://i.postimg.cc/fW8nDX8C/Cr1.png)](https://postimg.cc/Dm4YcWk4)
+
+
+[![Cr2.png](https://i.postimg.cc/RZfD6nLj/Cr2.png)](https://postimg.cc/Yvr3T0V3)
+
+
+[![Cr3.png](https://i.postimg.cc/VsZf43Pz/Cr3.png)](https://postimg.cc/V5MPkZNh)
+
+
+[![Cr4.png](https://i.postimg.cc/3xtW5WPD/Cr4.png)](https://postimg.cc/LJZmj44H)
+
+
+
