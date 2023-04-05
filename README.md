@@ -26,3 +26,5 @@ Ya al tener lista la base de datos, se puede correr el proyecto. Ahora para que 
 
 [![Explicaci-n1.png](https://i.postimg.cc/BnkJsDQk/Explicaci-n1.png)](https://postimg.cc/bZx79Zn9)
 
+
+Hechos los anteriores pasos se puede ejecutar el programa con satisfacción.
